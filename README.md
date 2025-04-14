@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @UlyssesMaclaren
+- 👋 Hi, I’m Ulysses Maclaren (@Uly1)
 - 👀 I’m the General Manager at SSW and I run the Sydney office
 - 📃 I blog here: [https://ulyssesmaclaren.com](https://ulyssesmaclaren.com)
-- 🌱 I’m currently learning all about AI
+- 🌱 I’m currently learning all about AI, and am the Product Owner of [YakShaver.ai](https://yakshaver.ai)
 - 📫 How to reach me: @uly1 
 
 [![Uly's github stats](https://github-readme-stats.vercel.app/api?username=ulyssesmaclaren&theme=dark)](https://github.com/ulyssesmaclaren/github-readme-stats)
