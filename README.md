@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ulysses Maclaren (@Uly1)
-- 👀 I’m the General Manager at SSW and I run the Sydney office
+- 👀 I’m the COO at SSW and I run the Sydney office
 - 📃 I blog here: [ulyssesmaclaren.com](https://ulyssesmaclaren.com)
 - 🌱 I’m currently learning all about AI, and am the Product Owner of [YakShaver.ai](https://yakshaver.ai)
 - 📫 How to reach me: @uly1 
